@@ -34,3 +34,5 @@ Real-time Communication: Socket.IO / WebSocket
 #OUTPUT#:
 
 <img width="1006" height="689" alt="Image" src="https://github.com/user-attachments/assets/c992d3ee-8e45-47ae-b1c9-67782ecfb15e" />
+
+<img width="511" height="427" alt="Image" src="https://github.com/user-attachments/assets/d49f5f08-939a-41e2-970e-8a5933832b76" />
